@@ -8,3 +8,12 @@
 
 # CSS files
 *.scss
+
+# Build
+bin/*
+dist/*
+
+# IDE`s folders
+.idea/*
+.github/*
+.vscode/*
