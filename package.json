@@ -6,7 +6,7 @@
   "bin": {
     "oclif-template": "./bin/run"
   },
-  "homepage": "https://github.com/https://github.com/XenoPOMP/oclif-template/oclif-template",
+  "homepage": "https://github.com/XenoPOMP/oclif-template/oclif-template",
   "license": "MIT",
   "main": "dist/index.js",
   "repository": "https://github.com/XenoPOMP/oclif-template/oclif-template",

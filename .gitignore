@@ -16,3 +16,6 @@
 node_modules
 node_modules
 oclif.manifest.json
+
+# Un-ingored files
+!.vscode/launch.json
