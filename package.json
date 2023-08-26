@@ -37,7 +37,7 @@
     "shx": "^0.3.3",
     "ts-node": "^10.9.1",
     "tslib": "^2.6.0",
-    "typescript": "^5.0.4"
+    "typescript": "^5.2.2"
   },
   "oclif": {
     "bin": "oclif-template",
